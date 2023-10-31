@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T14:31:26.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="r_bUundacNiyYU3iJ8OH" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T08:00:21.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="O5miaWOw9Jz8bh7bhrsI" version="22.0.8" type="github">
   <diagram name="第 1 页" id="c-nyOIZdVKNAjwUqqyrd">
-    <mxGraphModel dx="3679" dy="3916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2864" dy="3465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5203,6 +5203,24 @@
         </mxCell>
         <mxCell id="991q9CODV0xFPY4frBMY-270" value="load redistribution" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2160" y="-280" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4JGG87S0eUBFr-0ONQoo-1" value="$$L_{p_1}(t_0), \theta_1$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250.5" y="375" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4JGG87S0eUBFr-0ONQoo-2" value="$$L_{p_2}(t_0),&amp;nbsp;&lt;br&gt;\theta_2$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="141.5" y="460" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4JGG87S0eUBFr-0ONQoo-3" value="$$L_{p_3}(t_0),&amp;nbsp;&lt;br&gt;\theta_3$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="396.5" y="645" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4JGG87S0eUBFr-0ONQoo-4" value="$$L_{p_4}(t_0),&amp;nbsp;&lt;br&gt;\theta_4$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="146.5" y="680" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4JGG87S0eUBFr-0ONQoo-5" value="$$L_{p_5}(t_0),&amp;nbsp;&lt;br&gt;\theta_5$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="436.5" y="805" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4JGG87S0eUBFr-0ONQoo-6" value="$$L_{p_6}(t_0),&amp;nbsp;&lt;br&gt;\theta_6$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="276.5" y="910" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
