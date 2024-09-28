@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-28T11:57:13.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="h2JHors9xNUrbRFFJw1d" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-28T12:05:47.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="1NQ9P7mtnoqUnsJmkHLC" version="24.3.1" type="github">
   <diagram name="第 1 页" id="u9oxC_GmH5SRg3YtXVf3">
     <mxGraphModel dx="4122" dy="1353" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -597,7 +597,7 @@
         <mxCell id="i5I3pmPfCYwwTyvTxAHe-2" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;&quot;1&quot;&lt;br style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 18px;&quot;&gt;Down&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;fontFamily=Times New Roman;fontSize=18;container=0;" parent="1" vertex="1">
           <mxGeometry x="-70.5" y="1486" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RxWFsLzEi6NoIVIJHUqm-1" value="研究目标：提高信息物理系统抗复合级联故障的韧性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-1" value="研究目标：建立复合级联故障模型，精确预测故障实时传播过程，设计方案降低故障影响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2278" y="1052" width="653" height="121" as="geometry" />
         </mxCell>
         <mxCell id="RxWFsLzEi6NoIVIJHUqm-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
