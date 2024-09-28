@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-09-28T11:31:30.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="3xcW2sGyBb0QQYaMDeON" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-28T11:57:13.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="h2JHors9xNUrbRFFJw1d" version="24.3.1" type="github">
   <diagram name="第 1 页" id="u9oxC_GmH5SRg3YtXVf3">
-    <mxGraphModel dx="2866" dy="1543" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="4122" dy="1353" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -596,6 +596,57 @@
         </mxCell>
         <mxCell id="i5I3pmPfCYwwTyvTxAHe-2" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;&quot;1&quot;&lt;br style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 18px;&quot;&gt;Down&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;fontFamily=Times New Roman;fontSize=18;container=0;" parent="1" vertex="1">
           <mxGeometry x="-70.5" y="1486" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-1" value="研究目标：提高信息物理系统抗复合级联故障的韧性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2278" y="1052" width="653" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2278" y="1200" width="296" height="414" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-3" value="研究内容一：复合级联故障的建模与瞬态分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2256" y="1226" width="257" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1921" y="1200" width="296" height="414" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-7" value="研究内容二：复合级联故障的控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1899" y="1226" width="259" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-8" value="核心问题：精确预测复合级联故障的实时传播过程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2256" y="1310" width="257" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RxWFsLzEi6NoIVIJHUqm-9" target="RxWFsLzEi6NoIVIJHUqm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-9" value="复合级联故障传播模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2256" y="1407" width="257" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RxWFsLzEi6NoIVIJHUqm-10" target="RxWFsLzEi6NoIVIJHUqm-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-10" value="传播影响范围定义&lt;div&gt;实时可用性S(t)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2256" y="1512" width="127" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RxWFsLzEi6NoIVIJHUqm-11" target="RxWFsLzEi6NoIVIJHUqm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-11" value="瞬态分析方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2117" y="1512" width="127" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RxWFsLzEi6NoIVIJHUqm-9" target="RxWFsLzEi6NoIVIJHUqm-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-14" value="核心问题：面向复合级联故障场景的介入点选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1899" y="1305" width="259" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RxWFsLzEi6NoIVIJHUqm-15" target="RxWFsLzEi6NoIVIJHUqm-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-15" value="GNN特征提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1895" y="1407" width="257" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RxWFsLzEi6NoIVIJHUqm-19" value="强化学习智能体&lt;div&gt;优化问题求解&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1767" y="1505" width="127" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
