@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T03:48:37.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="7Zpo9PN3yG9j9Vjtpb00" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-28T11:31:30.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" etag="3xcW2sGyBb0QQYaMDeON" version="24.3.1" type="github">
   <diagram name="第 1 页" id="u9oxC_GmH5SRg3YtXVf3">
-    <mxGraphModel dx="2866" dy="1545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2866" dy="1543" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -557,7 +557,7 @@
             <mxPoint x="-70" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_V2HfAc05BDVifkwutuR-3" value="1) lose power $$\forall p_i \in P, c \notin Sp(p_i)$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=18;container=0;" parent="_V2HfAc05BDVifkwutuR-1" vertex="1" connectable="0">
+        <mxCell id="_V2HfAc05BDVifkwutuR-3" value="1) lose support $$\forall p_i \in P, c \notin Sp(p_i)$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=18;container=0;" parent="_V2HfAc05BDVifkwutuR-1" vertex="1" connectable="0">
           <mxGeometry x="-0.2956" y="16" relative="1" as="geometry">
             <mxPoint x="-75" y="-27" as="offset" />
           </mxGeometry>
@@ -585,7 +585,7 @@
         <mxCell id="_V2HfAc05BDVifkwutuR-7" value="2) not in LCC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=18;container=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="227.49508907312213" y="1626.0028394182355" as="geometry" />
         </mxCell>
-        <mxCell id="_V2HfAc05BDVifkwutuR-8" value="1) lose power $$\forall p_i \in P, c \notin Sp(p_i)$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=18;labelBackgroundColor=none;container=0;" parent="1" vertex="1" connectable="0">
+        <mxCell id="_V2HfAc05BDVifkwutuR-8" value="1) lose support $$\forall p_i \in P, c \notin Sp(p_i)$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=18;labelBackgroundColor=none;container=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="226.52428958316966" y="1593.0037468475193" as="geometry" />
         </mxCell>
         <mxCell id="_V2HfAc05BDVifkwutuR-9" value="2) overload $$\sum_{p_j \in \mathcal{N}_{p_i}} L_{p_j}^*(t) + L_{p_i}(t_0) \geq \theta_{p_i}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=18;labelBackgroundColor=none;container=0;" parent="1" vertex="1" connectable="0">
