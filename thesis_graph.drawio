@@ -706,7 +706,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VN5SXcmNSUSk80dT31zO-26" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#1C8A1C;strokeWidth=3;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1925.6099999999997" y="1349" width="272.61" height="228" as="geometry" />
+          <mxGeometry x="-1925.6099999999997" y="1350" width="272.61" height="228" as="geometry" />
         </mxCell>
         <mxCell id="VN5SXcmNSUSk80dT31zO-27" value="&lt;font size=&quot;1&quot; color=&quot;#b80000&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;高扩展性复合级联故障阻断方案&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1808.4341388915652" y="1577.995697957671" as="geometry">
@@ -719,10 +719,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VN5SXcmNSUSk80dT31zO-29" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#1C8A1C;strokeWidth=3;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2264" y="1463" width="194" height="98" as="geometry" />
+          <mxGeometry x="-2566" y="1559" width="194" height="98" as="geometry" />
         </mxCell>
         <mxCell id="VN5SXcmNSUSk80dT31zO-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#1C8A1C;strokeWidth=3;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2227" y="1355" width="188" height="76" as="geometry" />
+          <mxGeometry x="-2672" y="1292" width="188" height="76" as="geometry" />
         </mxCell>
         <mxCell id="VN5SXcmNSUSk80dT31zO-31" value="&lt;font size=&quot;1&quot; color=&quot;#b80000&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;可泛化的复合级联故障模型&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2130.004138891565" y="1429.995697957671" as="geometry">
