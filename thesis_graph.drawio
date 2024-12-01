@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.9">
   <diagram name="第 1 页" id="u9oxC_GmH5SRg3YtXVf3">
-    <mxGraphModel dx="5266" dy="1541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="4676" dy="1215" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1207,6 +1207,86 @@
             <mxPoint x="2976" y="190" as="sourcePoint" />
             <mxPoint x="2778" y="258" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;" edge="1" parent="1" source="xWqQD_AyosFGn9J2A91j-17" target="xWqQD_AyosFGn9J2A91j-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="845.5" y="1538" as="sourcePoint" />
+            <mxPoint x="1032.5" y="1538" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-2" value="1) 失去控制 $$Ctrl(p_i)\cap On(t) = \emptyset$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=18;labelBackgroundColor=none;container=0;" vertex="1" connectable="0" parent="xWqQD_AyosFGn9J2A91j-1">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint x="11" y="-48" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-3" value="&quot;0&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;Online" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97D077;fontFamily=Times New Roman;fontSize=18;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1272.5" y="1424" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-4" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;&quot;-1&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;Offline&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontFamily=Times New Roman;fontSize=18;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1172.5" y="1532" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-5" value="&quot;1&quot;&lt;br style=&quot;font-size: 18px;&quot;&gt;Infected" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8595;fontFamily=Times New Roman;fontSize=18;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1370.5" y="1532" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-6" value="(a) 物理节点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;container=0;" vertex="1" parent="1">
+          <mxGeometry x="875.5" y="1676" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-7" value="(b) 信息节点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1248" y="1676" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-8" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;" edge="1" parent="1" source="xWqQD_AyosFGn9J2A91j-3" target="xWqQD_AyosFGn9J2A91j-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1479.5" y="1518" as="sourcePoint" />
+            <mxPoint x="1529.5" y="1468" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1210.5" y="1482" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-9" value="2) 不在极大连通分量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=18;container=0;" vertex="1" connectable="0" parent="xWqQD_AyosFGn9J2A91j-8">
+          <mxGeometry x="-0.247" y="15" relative="1" as="geometry">
+            <mxPoint x="-69" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-10" value="1) 失去支持&amp;nbsp;$$\forall p_i \in P, c \notin Sp(p_i)$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=18;container=0;" vertex="1" connectable="0" parent="xWqQD_AyosFGn9J2A91j-8">
+          <mxGeometry x="-0.2956" y="16" relative="1" as="geometry">
+            <mxPoint x="-75" y="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;" edge="1" parent="1" source="xWqQD_AyosFGn9J2A91j-3" target="xWqQD_AyosFGn9J2A91j-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1479.5" y="1518" as="sourcePoint" />
+            <mxPoint x="1529.5" y="1468" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1395.5" y="1477" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-12" value="感染 $$\mathbb{P}=1 - \beta_i$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=18;labelBackgroundColor=none;container=0;" vertex="1" connectable="0" parent="xWqQD_AyosFGn9J2A91j-11">
+          <mxGeometry x="0.5735" y="-27" relative="1" as="geometry">
+            <mxPoint x="49" y="-47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;" edge="1" parent="1" source="xWqQD_AyosFGn9J2A91j-5" target="xWqQD_AyosFGn9J2A91j-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1479.5" y="1518" as="sourcePoint" />
+            <mxPoint x="1529.5" y="1468" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-15" value="1) 失去支持 $$\forall p_i \in P, c \notin Sp(p_i)$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=18;labelBackgroundColor=none;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1307.0242895831698" y="1604.0037468475193" as="geometry" />
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-16" value="2) 过载 $$\sum_{p_j \in \mathcal{N}_{p_i}} L_{p_j}^*(t) + L_{p_i}(t_0) \geq \theta_{p_i}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=18;labelBackgroundColor=none;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="933.9966666666666" y="1581" as="geometry" />
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-17" value="&quot;0&quot;&lt;br style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Normal&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CCCC00;fontFamily=Times New Roman;fontSize=18;container=0;" vertex="1" parent="1">
+          <mxGeometry x="816" y="1497" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-18" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;&quot;1&quot;&lt;br style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 18px;&quot;&gt;Down&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;fontFamily=Times New Roman;fontSize=18;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1497" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xWqQD_AyosFGn9J2A91j-19" value="2) 不在极大连通分量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=18;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1312.9978091515868" y="1639.9961681428592" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
